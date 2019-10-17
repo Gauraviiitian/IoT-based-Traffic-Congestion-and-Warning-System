@@ -1,0 +1,2 @@
+# IoT-based-Traffic-Congestion-and-Warning-System
+This project investigates about traffic problems in day to day life and provides a solution for handling problems such as Traffic Jams to ensure a better management of traffic with the help of Internet of Things. Used Raspberry pi and coded it with python to make the prototype functional. Also integrated automated email system to inform relevant orginazations if some emergency occurs.
